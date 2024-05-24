@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧉 Ao seu dispor! 
 
 <!--
 **jubarex/jubarex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,30 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jubarex/jubarex/blob/main/jubarex_instagram.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/jubarex/jubarex/blob/main/jubarex_instagram.png">
+ <img alt="Jubarex Photo" src="https://github.com/jubarex/jubarex/blob/main/jubarex_instagram.png">
 </picture>
+
+## About me
+Hi, I'm Jubarex!
+learning how all this world works
+
+<details>
+<summary>My FOCUS!</summary>
+
+| Rank | SKILLS |
+|-----:|---------------|
+|     1|     COMMUNICATION    |
+|     2|     WEB DEVELOPMENT    |
+|     3|      DESIGN   |
+
+</details>
+
+---
+> Bão tchê 🧉
+- Jubarex
+
+
+<!-- TO DO: colocar mais coisas ok -->
+
